@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2025-11-24",
+    "timestamp": "2025-11-24T19:29:09.655930",
+    "mood": "tense",
+    "energy": "medium",
+    "objectives": [
+      "finish my homework and take a walk"
+    ],
+    "summary": "The user is feeling tense with medium energy and plans to finish their homework and take a walk."
+  },
+  {
+    "date": "2025-11-24",
+    "timestamp": "2025-11-24T19:30:58.637571",
+    "mood": "good",
+    "energy": "good",
+    "objectives": [
+      "finish project",
+      "go for a walk",
+      "meet girlfriend"
+    ],
+    "summary": "The user is feeling good and energetic today, especially after a morning run. Their objectives for the day are to finish a project, go for a walk, and meet their girlfriend."
+  },
+  {
+    "date": "2025-11-24",
+    "timestamp": "2025-11-24T20:04:22.671683",
+    "mood": "unmotivated",
+    "energy": "5/10",
+    "objectives": [
+      "finish homework",
+      "take a walk"
+    ],
+    "summary": "The user is feeling unmotivated with energy at 5/10. Their goals for today are to finish homework and take a walk."
+  },
+  {
+    "date": "2025-11-24",
+    "timestamp": "2025-11-24T20:06:38.181858",
+    "mood": "happy",
+    "energy": "very good",
+    "objectives": [
+      "Complete my project. Go for a walk",
+      "and hear music."
+    ],
+    "summary": "User is feeling happy and had a very good energy day after a walk. Objectives are to complete a project, go for another walk, and listen to music."
+  }
+]

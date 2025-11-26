@@ -1,0 +1,11 @@
+{
+  "drinkType": "latte",
+  "size": "large",
+  "milk": "oat milk",
+  "extras": [
+    "chocolate syrup"
+  ],
+  "name": "Vinay",
+  "timestamp": "2025-11-24T17:03:23.638379",
+  "orderNumber": "20251124170323"
+}

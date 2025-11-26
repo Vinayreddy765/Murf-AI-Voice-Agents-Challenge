@@ -1,0 +1,11 @@
+{
+  "drinkType": "latte",
+  "size": "medium",
+  "milk": "oat milk",
+  "extras": [
+    "No extras"
+  ],
+  "name": "Ronaldo",
+  "timestamp": "2025-11-24T17:38:28.123830",
+  "orderNumber": "20251124173828"
+}

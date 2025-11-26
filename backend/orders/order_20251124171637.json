@@ -1,0 +1,11 @@
+{
+  "drinkType": "latte",
+  "size": "medium",
+  "milk": "oat milk",
+  "extras": [
+    "no extras"
+  ],
+  "name": "Vinay",
+  "timestamp": "2025-11-24T17:16:37.728521",
+  "orderNumber": "20251124171637"
+}
