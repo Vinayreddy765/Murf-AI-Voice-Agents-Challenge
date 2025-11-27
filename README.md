@@ -1,4 +1,4 @@
-# AI Voice Agents Challenge - Starter Repository
+# AI Voice Agents Challenge 
 
 Welcome to the **AI Voice Agents Challenge** by [murf.ai](https://murf.ai)!
 
