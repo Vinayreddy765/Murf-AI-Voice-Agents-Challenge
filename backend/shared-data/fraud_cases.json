@@ -1,0 +1,47 @@
+[
+  {
+    "userName": "Vinay",
+    "securityIdentifier": "12345",
+    "securityQuestion": "What is your mother's maiden name?",
+    "securityAnswer": "sharma",
+    "cardEnding": "4242",
+    "status": "pending_review",
+    "transactionAmount": "₹45,000",
+    "transactionName": "Alibaba Electronics",
+    "transactionTime": "November 23, 2025 at 2:30 PM",
+    "transactionCategory": "e-commerce",
+    "transactionSource": "alibaba.com",
+    "transactionLocation": "Shanghai, China",
+    "outcome": ""
+  },
+  {
+    "userName": "Priya",
+    "securityIdentifier": "67890",
+    "securityQuestion": "What city were you born in?",
+    "securityAnswer": "mumbai",
+    "cardEnding": "8765",
+    "status": "confirmed_fraud",
+    "transactionAmount": "₹1,25,000",
+    "transactionName": "Luxury Watch Co",
+    "transactionTime": "November 22, 2025 at 11:45 PM",
+    "transactionCategory": "luxury goods",
+    "transactionSource": "luxurywatches.com",
+    "transactionLocation": "Dubai, UAE",
+    "outcome": "Customer denied transaction - fraud confirmed on 2025-11-28 14:25:37"
+  },
+  {
+    "userName": "Rahul",
+    "securityIdentifier": "11223",
+    "securityQuestion": "What is your pet's name?",
+    "securityAnswer": "bruno",
+    "cardEnding": "3344",
+    "status": "pending_review",
+    "transactionAmount": "₹8,500",
+    "transactionName": "Steam Gaming",
+    "transactionTime": "November 24, 2025 at 9:00 AM",
+    "transactionCategory": "gaming",
+    "transactionSource": "steampowered.com",
+    "transactionLocation": "Seattle, USA",
+    "outcome": ""
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "company_name": "Razorpay",
+  "product": "Payment Gateway and Financial Services Platform",
+  "tagline": "Accept payments, automate payouts, and manage finances",
+  
+  "faqs": [
+    {
+      "question": "What does Razorpay do?",
+      "answer": "Razorpay is India's leading payment gateway that helps businesses accept online payments, automate payouts, and manage their finances. We support over 100 payment methods including UPI, cards, net banking, and wallets."
+    },
+    {
+      "question": "Who is Razorpay for?",
+      "answer": "Razorpay is perfect for startups, small businesses, and enterprises in India who want to accept online payments. Whether you're an e-commerce store, SaaS company, or service provider, we have solutions for you."
+    },
+    {
+      "question": "What are the pricing details?",
+      "answer": "Razorpay charges 2% transaction fee for domestic payments with no setup or maintenance fees. International payments are charged at 3%. We also offer custom pricing for high-volume businesses."
+    },
+    {
+      "question": "Do you have a free tier?",
+      "answer": "Yes! You can sign up for free and start accepting payments immediately. We only charge when you receive successful payments - 2% per transaction with no hidden fees."
+    },
+    {
+      "question": "What payment methods do you support?",
+      "answer": "We support over 100 payment methods including UPI, credit cards, debit cards, net banking, mobile wallets like Paytm and PhonePe, and buy now pay later options."
+    },
+    {
+      "question": "How long does integration take?",
+      "answer": "Our integration is very simple! Most developers can integrate Razorpay in less than a day using our APIs, SDKs, or no-code plugins for platforms like WooCommerce, Shopify, and WordPress."
+    },
+    {
+      "question": "What features do you offer?",
+      "answer": "We offer payment gateway, payment links, subscriptions and recurring billing, invoices, instant settlements, automated payouts, route optimization, and detailed analytics dashboard."
+    }
+  ]
+}
