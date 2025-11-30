@@ -1,0 +1,38 @@
+{
+  "order_id": "ORD20251128192653",
+  "timestamp": "2025-11-28T19:26:53.106864",
+  "customer_name": "Vinay",
+  "delivery_address": "Global Boys Hostel",
+  "items": [
+    {
+      "id": "bread_white",
+      "name": "White Bread",
+      "price": 40,
+      "quantity": 1,
+      "unit": "loaf"
+    },
+    {
+      "id": "peanut_butter",
+      "name": "Peanut Butter",
+      "price": 180,
+      "quantity": 1,
+      "unit": "400g"
+    },
+    {
+      "id": "tomatoes",
+      "name": "Fresh Tomatoes",
+      "price": 40,
+      "quantity": 1,
+      "unit": "1kg"
+    },
+    {
+      "id": "butter",
+      "name": "Salted Butter",
+      "price": 55,
+      "quantity": 1,
+      "unit": "100g"
+    }
+  ],
+  "total": 315,
+  "status": "received"
+}

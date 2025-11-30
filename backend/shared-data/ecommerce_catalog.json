@@ -1,0 +1,117 @@
+{
+  "store_name": "TechStyle India",
+  "currency": "INR",
+  "products": [
+    {
+      "id": "mug-001",
+      "name": "Ceramic Coffee Mug",
+      "description": "Handcrafted ceramic mug, perfect for your morning coffee",
+      "price": 450,
+      "currency": "INR",
+      "category": "mug",
+      "attributes": {
+        "color": "white",
+        "material": "ceramic",
+        "capacity": "350ml"
+      },
+      "in_stock": true
+    },
+    {
+      "id": "mug-002",
+      "name": "Stoneware Coffee Mug",
+      "description": "Rustic stoneware mug with blue glaze",
+      "price": 650,
+      "currency": "INR",
+      "category": "mug",
+      "attributes": {
+        "color": "blue",
+        "material": "stoneware",
+        "capacity": "400ml"
+      },
+      "in_stock": true
+    },
+    {
+      "id": "tshirt-001",
+      "name": "Classic Cotton T-Shirt",
+      "description": "100% cotton, comfortable daily wear",
+      "price": 599,
+      "currency": "INR",
+      "category": "clothing",
+      "attributes": {
+        "color": "black",
+        "size": "M",
+        "material": "cotton"
+      },
+      "in_stock": true
+    },
+    {
+      "id": "tshirt-002",
+      "name": "Premium Cotton T-Shirt",
+      "description": "Premium quality cotton t-shirt",
+      "price": 899,
+      "currency": "INR",
+      "category": "clothing",
+      "attributes": {
+        "color": "white",
+        "size": "L",
+        "material": "cotton"
+      },
+      "in_stock": true
+    },
+    {
+      "id": "hoodie-001",
+      "name": "Black Zip Hoodie",
+      "description": "Warm and comfortable zip-up hoodie",
+      "price": 1499,
+      "currency": "INR",
+      "category": "clothing",
+      "attributes": {
+        "color": "black",
+        "size": "M",
+        "material": "cotton-polyester"
+      },
+      "in_stock": true
+    },
+    {
+      "id": "hoodie-002",
+      "name": "Grey Pullover Hoodie",
+      "description": "Classic grey pullover hoodie",
+      "price": 1299,
+      "currency": "INR",
+      "category": "clothing",
+      "attributes": {
+        "color": "grey",
+        "size": "L",
+        "material": "cotton-polyester"
+      },
+      "in_stock": true
+    },
+    {
+      "id": "bottle-001",
+      "name": "Stainless Steel Water Bottle",
+      "description": "Insulated steel bottle, keeps drinks cold for 24 hours",
+      "price": 799,
+      "currency": "INR",
+      "category": "bottle",
+      "attributes": {
+        "color": "silver",
+        "material": "stainless-steel",
+        "capacity": "1L"
+      },
+      "in_stock": true
+    },
+    {
+      "id": "bag-001",
+      "name": "Canvas Tote Bag",
+      "description": "Eco-friendly canvas tote bag",
+      "price": 399,
+      "currency": "INR",
+      "category": "bag",
+      "attributes": {
+        "color": "beige",
+        "material": "canvas"
+      },
+      "in_stock": true
+    }
+  ]
+}

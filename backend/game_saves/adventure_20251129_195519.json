@@ -1,0 +1,28 @@
+{
+  "player_name": "Aragon",
+  "current_location": "Entrance to Whispering Woods",
+  "inventory": [],
+  "health": "Full",
+  "key_events": [
+    {
+      "turn": 0,
+      "event": "Met desperate villager, heard about Shadow Blight and Whispering Woods"
+    },
+    {
+      "turn": 0,
+      "event": "Accepted quest to find the Sunstone and stop the Shadow Blight."
+    },
+    {
+      "turn": 0,
+      "event": "Accepted quest to find the Sunstone"
+    }
+  ],
+  "npcs_met": [
+    {
+      "name": "Elara",
+      "role": "Villager"
+    }
+  ],
+  "quest_status": "Starting new adventure",
+  "turn_count": 0
+}

@@ -1,0 +1,24 @@
+{
+  "order_id": "ORD20251128192125",
+  "timestamp": "2025-11-28T19:21:25.024589",
+  "customer_name": "Vinay",
+  "delivery_address": "Global Voice Hostel",
+  "items": [
+    {
+      "id": "milk",
+      "name": "Fresh Milk",
+      "price": 60,
+      "quantity": 2,
+      "unit": "1L"
+    },
+    {
+      "id": "bread_white",
+      "name": "White Bread",
+      "price": 40,
+      "quantity": 1,
+      "unit": "loaf"
+    }
+  ],
+  "total": 160,
+  "status": "received"
+}

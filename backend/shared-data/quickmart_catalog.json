@@ -1,0 +1,159 @@
+{
+  "store_name": "QuickMart",
+  "categories": {
+    "groceries": [
+      {
+        "id": "bread_white",
+        "name": "White Bread",
+        "brand": "Fresh Bake",
+        "price": 40,
+        "unit": "loaf",
+        "tags": ["vegetarian"]
+      },
+      {
+        "id": "bread_wheat",
+        "name": "Whole Wheat Bread",
+        "brand": "Nature's Own",
+        "price": 50,
+        "unit": "loaf",
+        "tags": ["vegetarian", "healthy"]
+      },
+      {
+        "id": "milk",
+        "name": "Fresh Milk",
+        "brand": "Amul",
+        "price": 60,
+        "unit": "1L",
+        "tags": ["vegetarian", "dairy"]
+      },
+      {
+        "id": "eggs",
+        "name": "Farm Fresh Eggs",
+        "brand": "Country Eggs",
+        "price": 80,
+        "unit": "12 pack",
+        "tags": ["protein"]
+      },
+      {
+        "id": "butter",
+        "name": "Salted Butter",
+        "brand": "Amul",
+        "price": 55,
+        "unit": "100g",
+        "tags": ["vegetarian", "dairy"]
+      },
+      {
+        "id": "cheese",
+        "name": "Cheddar Cheese",
+        "brand": "Britannia",
+        "price": 120,
+        "unit": "200g",
+        "tags": ["vegetarian", "dairy"]
+      },
+      {
+        "id": "tomatoes",
+        "name": "Fresh Tomatoes",
+        "price": 40,
+        "unit": "1kg",
+        "tags": ["vegan", "vegetarian"]
+      },
+      {
+        "id": "onions",
+        "name": "Red Onions",
+        "price": 30,
+        "unit": "1kg",
+        "tags": ["vegan", "vegetarian"]
+      },
+      {
+        "id": "rice",
+        "name": "Basmati Rice",
+        "brand": "India Gate",
+        "price": 200,
+        "unit": "5kg",
+        "tags": ["vegan", "vegetarian"]
+      },
+      {
+        "id": "pasta",
+        "name": "Penne Pasta",
+        "brand": "Maggi",
+        "price": 70,
+        "unit": "500g",
+        "tags": ["vegetarian"]
+      }
+    ],
+    "snacks": [
+      {
+        "id": "chips_classic",
+        "name": "Classic Salted Chips",
+        "brand": "Lays",
+        "price": 20,
+        "unit": "50g",
+        "tags": ["vegetarian"]
+      },
+      {
+        "id": "cookies",
+        "name": "Chocolate Cookies",
+        "brand": "Britannia",
+        "price": 30,
+        "unit": "150g",
+        "tags": ["vegetarian"]
+      },
+      {
+        "id": "peanut_butter",
+        "name": "Peanut Butter",
+        "brand": "Sundrop",
+        "price": 180,
+        "unit": "400g",
+        "tags": ["vegetarian", "protein"]
+      }
+    ],
+    "beverages": [
+      {
+        "id": "cola",
+        "name": "Cola",
+        "brand": "Coca-Cola",
+        "price": 40,
+        "unit": "750ml",
+        "tags": ["vegetarian"]
+      },
+      {
+        "id": "juice_orange",
+        "name": "Orange Juice",
+        "brand": "Real",
+        "price": 120,
+        "unit": "1L",
+        "tags": ["vegetarian"]
+      },
+      {
+        "id": "water",
+        "name": "Mineral Water",
+        "brand": "Bisleri",
+        "price": 20,
+        "unit": "1L",
+        "tags": ["vegan", "vegetarian"]
+      }
+    ],
+    "prepared_food": [
+      {
+        "id": "pizza_margherita",
+        "name": "Margherita Pizza",
+        "price": 250,
+        "unit": "medium",
+        "tags": ["vegetarian"]
+      },
+      {
+        "id": "sandwich_veg",
+        "name": "Veg Sandwich",
+        "price": 80,
+        "unit": "piece",
+        "tags": ["vegetarian"]
+      }
+    ]
+  },
+  "recipes": {
+    "peanut butter sandwich": ["bread_white", "peanut_butter"],
+    "pasta": ["pasta", "tomatoes", "onions", "cheese"],
+    "breakfast": ["bread_wheat", "eggs", "milk", "butter"],
+    "sandwich": ["bread_white", "cheese", "tomatoes", "butter"]
+  }
+}
